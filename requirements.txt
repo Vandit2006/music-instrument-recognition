@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 librosa
 numpy
@@ -5,4 +6,13 @@ joblib
 scikit-learn
 soundfile
 audioread
+=======
+streamlit
+librosa
+numpy
+joblib
+scikit-learn
+soundfile
+audioread
+>>>>>>> ca799d3bb9976e0e26705ad9c36ba54eefd09924
 ffmpeg-python
