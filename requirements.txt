@@ -1,18 +1,7 @@
-<<<<<<< HEAD
-streamlit
-librosa
-numpy
-joblib
-scikit-learn
-soundfile
-audioread
-=======
-streamlit
-librosa
-numpy
-joblib
-scikit-learn
-soundfile
-audioread
->>>>>>> ca799d3bb9976e0e26705ad9c36ba54eefd09924
-ffmpeg-python
+streamlit==1.33.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.3.2
+librosa==0.10.1
+joblib==1.3.2
+soundfile==0.12.1
